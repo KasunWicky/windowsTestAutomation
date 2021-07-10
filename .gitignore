@@ -1,0 +1,62 @@
+# Build files#
+###################
+.gradle/**
+gradle/
+.settings/**
+*.iml
+
+# Class file folder#
+######################
+build/**
+
+# IntelliJ#
+######################
+.idea
+.idea/
+* .idea
+
+# etc#
+######################
+logs/**
+*.log
+.project
+.classpath
+target/**
+
+# Test- results#
+######################
+test-output/**
+
+
+# Compiled files#
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Compressed files #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.xlsx
+*.xls
+
+# Supporting folder#
+###################
+drivers/.idea
+.settings
+target
+logs
+test-output
+bin/
+/bin
+*.iml
