@@ -38,7 +38,7 @@ public class WindowsTestDemo {
 		}
 
 		driver.findElement(By.name("Text Editor")).click();
-		driver.findElement(By.name("Text Editor")).sendKeys("Written By Automated Windows Application Test !!!");
+		driver.findElement(By.name("Text Editor")).sendKeys("Do you know how to automate tests on Windows Apps ???");
 	}
 
 }
